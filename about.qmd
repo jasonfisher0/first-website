@@ -1,5 +1,13 @@
 ---
-title: "Jason Fisher"
+title: "About"
 ---
 
-About this site
+## About Me
+My name is **Jason Fisher**. I am a junior at *Pearland High School*.
+
+
+
+
+
+
+[“Kane’s Free Data Science Bootcamp”](https://bootcamp.davidkane.info)
